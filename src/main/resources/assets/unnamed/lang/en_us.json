@@ -1,0 +1,22 @@
+{
+  "key.unnamed.Unnamed": "Unnamed Keybind",
+  "key.unnamed.Teleport": "Teleport",
+  "key.unnamed.menu": "Open Unnamed Menu",
+  "key.unnamed.sendToActionBar": "Toggle Send To Action Bar",
+  "key.unnamed.botMovements": "Toggle Bot Movements",
+  "key.unnamed.flight": "Toggle Flight",
+  "key.unnamed.flight.decreaseSpeed": "Decrease Flight Speed",
+  "key.unnamed.flight.increaseSpeed": "Increase Flight Speed",
+  "category.unnamed.Unnamed": "Unnamed Category",
+  "message.unnamed.Unnamed": "Unnamed Message",
+  "message.unnamed.flight.reachedMinimumSpeed": "Reached minimim flight speed",
+  "message.unnamed.flight.reachedMaximumSpeed": "Reached maximum flight speed",
+  "message.unnamed.flight.setSpeedTo": "Set flight speed to ",
+  "gui.unnamed.menu": "Unnamed",
+  "menu.unnamed": "Unnamed Menu",
+  "menu.unnamed.messageTarget": "Send to ",
+  "menu.unnamed.return": "Close",
+  "option.unnamed.sendToActionBar": "Send To Action Bar",
+  "option.unnamed.botMovements": "Bot Movements",
+  "option.unnamed.flight": "Flight"
+}
